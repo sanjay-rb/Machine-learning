@@ -8,9 +8,9 @@ This repository is about Machine learning, where we can find the basic template 
 - Cheers Let rock it 🎉🥳
 
 ## Data Preprocessing :
-- Please checkout to ```data_preprocessing``` branch 
+- Please checkout to ```1_data_preprocessing``` branch 
 - Run ```1. Data Preprocessing.ipynb``` notebook file.
 
 ## Simple Linear Regression :
-- Please checkout to ```simple_linear_regression``` branch 
+- Please checkout to ```2_simple_linear_regression``` branch 
 - Run ```2. Simple Linear Regression.ipynb``` notebook file.
