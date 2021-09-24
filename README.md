@@ -15,6 +15,6 @@ This repository is about Machine learning, where we can find the basic template 
 - Please checkout to ```2_simple_linear_regression``` branch 
 - Run ```2. Simple Linear Regression.ipynb``` notebook file.
 
-## 2. Multiple Linear Regression :
+## 3. Multiple Linear Regression :
 - Please checkout to ```3_multiple_linear_regression``` branch 
 - Run ```3 . Multiple Linear Regression.ipynb``` notebook file.
