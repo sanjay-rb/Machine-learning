@@ -29,3 +29,7 @@
 ## 5 . (SVR) Support Vector Regression :
 - Please checkout to [5_svr_support_vector_regression](https://github.com/sanjaysanju618/Machine-learning/tree/5_svr_support_vector_regression) branch.  
 - Run ```5 . (SVR) Support Vector Regression.ipynb``` notebook file.  
+
+## 6 . Decision Tree Regression :
+- Please checkout to [6_decision_tree_regression](https://github.com/sanjaysanju618/Machine-learning/tree/6_decision_tree_regression) branch.  
+- Run ```6 . Decision Tree Regression.ipynb``` notebook file.  
