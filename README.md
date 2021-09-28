@@ -33,3 +33,7 @@
 ## 6 . Decision Tree Regression :
 - Please checkout to [6_decision_tree_regression](https://github.com/sanjaysanju618/Machine-learning/tree/6_decision_tree_regression) branch.  
 - Run ```6 . Decision Tree Regression.ipynb``` notebook file.  
+
+## 7 . Random Forest Regression :
+- Please checkout to [7_random_forest_regression](https://github.com/sanjaysanju618/Machine-learning/tree/7_random_forest_regression) branch.  
+- Run ```7 . Random Forest Regression.ipynb``` notebook file.  
