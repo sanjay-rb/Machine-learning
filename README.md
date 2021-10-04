@@ -36,3 +36,7 @@
 ## 7 . Random Forest Regression :
 - Please checkout to [7_random_forest_regression](https://github.com/sanjaysanju618/Machine-learning/tree/7_random_forest_regression) branch.  
 - Run ```7 . Random Forest Regression.ipynb``` notebook file.  
+
+## 8 . Regression Model Selection :
+- Please checkout to [8_regression_model_selection](https://github.com/sanjaysanju618/Machine-learning/tree/8_regression_model_selection) branch.  
+- Run ```8 . Regression Model Selection.ipynb``` notebook file.  
