@@ -40,3 +40,7 @@
 ## 8 . Regression Model Selection :
 - Please checkout to [8_regression_model_selection](https://github.com/sanjaysanju618/Machine-learning/tree/8_regression_model_selection) branch.  
 - Run ```8 . Regression Model Selection.ipynb``` notebook file.  
+
+## 9 . Regression Extras :
+- Please checkout to [9_regression_extras](https://github.com/sanjaysanju618/Machine-learning/tree/9_regression_extras) branch.  
+- Run ```9 . Regression Extras.ipynb``` notebook file.  
