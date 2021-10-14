@@ -9,10 +9,12 @@
 - Try to run and understand each cell of files in the order given.  
 - Cheers Let rock it 🎉🥳.  
 
+# Data Preprocessing
 ## 1 . Data Preprocessing :
 - Please checkout to [1_data_preprocessing](https://github.com/sanjaysanju618/Machine-learning/tree/1_data_preprocessing) branch.  
 - Run ```1 . Data Preprocessing.ipynb``` notebook file.  
 
+# Regression
 ## 2 . Simple Linear Regression :
 - Please checkout to [2_simple_linear_regression](https://github.com/sanjaysanju618/Machine-learning/tree/2_simple_linear_regression) branch.  
 - Run ```2 . Simple Linear Regression.ipynb``` notebook file.  
@@ -44,3 +46,12 @@
 ## 9 . Regression Extras :
 - Please checkout to [9_regression_extras](https://github.com/sanjaysanju618/Machine-learning/tree/9_regression_extras) branch.  
 - Run ```9 . Regression Extras.ipynb``` notebook file.  
+
+# Classification
+## 10 . Logistic Regression :
+- Please checkout to [10_logistic_regression](https://github.com/sanjaysanju618/Machine-learning/tree/10_logistic_regression) branch.  
+- Run ```10 . Logistic Regression.ipynb``` notebook file.  
+
+## 11 .  K Nearest Neighbor :
+- Please checkout to [11_k_nearest_neighbor](https://github.com/sanjaysanju618/Machine-learning/tree/11_k_nearest_neighbor) branch.  
+- Run ```11 .  K Nearest Neighbor.ipynb``` notebook file.  
