@@ -55,3 +55,7 @@
 ## 11 .  K Nearest Neighbor :
 - Please checkout to [11_k_nearest_neighbor](https://github.com/sanjaysanju618/Machine-learning/tree/11_k_nearest_neighbor) branch.  
 - Run ```11 .  K Nearest Neighbor.ipynb``` notebook file.  
+
+## 12 . (SVC) Support Vector Classification :
+- Please checkout to [12_svc_support_vector_classification](https://github.com/sanjaysanju618/Machine-learning/tree/12_svc_support_vector_classification) branch.  
+- Run ```12 . (SVC) Support Vector Classification.ipynb``` notebook file.  
