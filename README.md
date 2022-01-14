@@ -59,3 +59,7 @@
 ## 12 . (SVC) Support Vector Classification :
 - Please checkout to [12_svc_support_vector_classification](https://github.com/sanjaysanju618/Machine-learning/tree/12_svc_support_vector_classification) branch.  
 - Run ```12 . (SVC) Support Vector Classification.ipynb``` notebook file.  
+
+## 13 . Kernel (SVC) Support Vector Classification :
+- Please checkout to [13_kernel_support_vector_machine](https://github.com/sanjaysanju618/Machine-learning/tree/13_kernel_support_vector_machine) branch.  
+- Run ```13 . Kernel Support Vector Machine.ipynb``` notebook file.  
