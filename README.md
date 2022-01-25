@@ -63,3 +63,11 @@
 ## 13 . Kernel (SVC) Support Vector Classification :
 - Please checkout to [13_kernel_support_vector_machine](https://github.com/sanjaysanju618/Machine-learning/tree/13_kernel_support_vector_machine) branch.  
 - Run ```13 . Kernel Support Vector Machine.ipynb``` notebook file.  
+
+## 14 . Naive Bayes Classification :
+- Please checkout to [14_naive_bayes_classification](https://github.com/sanjaysanju618/Machine-learning/tree/14_naive_bayes_classification) branch.  
+- Run ```14 . Naive Bayes Classification.ipynb``` notebook file.  
+
+## 15 . Decision Tree Classification :
+- Please checkout to [15_decision_tree_classification](https://github.com/sanjaysanju618/Machine-learning/tree/15_decision_tree_classification) branch.  
+- Run ```15 . Decision Tree Classification.ipynb``` notebook file.  
