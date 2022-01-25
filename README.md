@@ -52,8 +52,8 @@
 - Please checkout to [10_logistic_regression](https://github.com/sanjaysanju618/Machine-learning/tree/10_logistic_regression) branch.  
 - Run ```10 . Logistic Regression.ipynb``` notebook file.  
 
-## 11 .  K Nearest Neighbor :
-- Please checkout to [11_k_nearest_neighbor](https://github.com/sanjaysanju618/Machine-learning/tree/11_k_nearest_neighbor) branch.  
+## 11 .  K Nearest Neighbor Classification :
+- Please checkout to [11_k_nearest_neighbor_classification](https://github.com/sanjaysanju618/Machine-learning/tree/11_k_nearest_neighbor_classification) branch.  
 - Run ```11 .  K Nearest Neighbor.ipynb``` notebook file.  
 
 ## 12 . (SVC) Support Vector Classification :
