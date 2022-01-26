@@ -74,4 +74,4 @@
 
 ## 16 . Random Forest Classification :
 - Please checkout to [16_random_forest_classification](https://github.com/sanjaysanju618/Machine-learning/tree/16_random_forest_classification) branch.  
-- Run ```15 . Decision Tree Classification.ipynb``` notebook file.  
+- Run ```16 . Random Forest Classification.ipynb``` notebook file.  
