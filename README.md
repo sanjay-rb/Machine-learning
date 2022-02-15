@@ -88,3 +88,7 @@
 ## 19 . K Means Clustering :
 - Please check out to [19_k_means_clustering](https://github.com/sanjay-rb/Machine-learning/tree/19_k_means_clustering) branch.  
 - Run ```19 . K Means Clustering.ipynb``` notebook file.  
+
+## 20 . Hierarchical Clustering :
+- Please check out to [20_hierarchical_clustering](https://github.com/sanjay-rb/Machine-learning/tree/20_hierarchical_clustering) branch.  
+- Run ```20 . Hierarchical Clustering.ipynb``` notebook file.  
